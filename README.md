@@ -1,6 +1,7 @@
 # POI-
 机器学习白板推导系列视频
 https://github.com/shuhuai007/Machine-Learning-Session
+## 1
 keras CIKM 17 short paper: "SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories".
 https://github.com/yaodi833/serm
 PyTorch implementation of WWW'18 paper-DeepMove: Predicting Human Mobility with Attentional Recurrent Network
